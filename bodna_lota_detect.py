@@ -1,4 +1,14 @@
 """
+Bodna or Lota detector.
+by Ashraf Minhaj
+mail: ashraf_minhaj@yahoo.com
+blog: ashrafminhajfb.blogspot.com
+"""
+
+"""
+* Trained using 107 positive images and 200 negative images
+* Makes mistake as number of positie images are fewer.
+Updates will be made to make it more accurate
 """
 
 import cv2
